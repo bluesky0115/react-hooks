@@ -6,7 +6,7 @@
 - Explore the structure of a basic React component
 - Debug React components using the React Developer Tools
 
-## Introduction
+## Introduction                
 
 Before we dive in and start working on specific parts of a React project, let's
 take a look at a simple React application so we can understand it at a high
