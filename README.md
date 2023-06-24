@@ -14,7 +14,7 @@ level.
 
 In this lesson, we will start with a basic React app, examine the default
 directory structure, and gain a better understanding of how these apps are
-built.
+built.                        
 
 ## Starting Up a React App
 
