@@ -17,7 +17,7 @@ directory structure, and gain a better understanding of how these apps are
 built.                        
 
 ## Starting Up a React App
-
+                       
 This lesson has all the necessary parts of a fully working React app. First,
 make sure you're running a compatible version of Node. You should be using Node
 16, since Node 17 has some compatibility issues with several JavaScript
